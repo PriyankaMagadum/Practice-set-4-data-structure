@@ -1,4 +1,4 @@
-package com.synechron.array;
+package com.synechron;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

@@ -1,4 +1,4 @@
-package com.synechron.array;
+package com.synechron;
 
 import java.util.Arrays;
 
